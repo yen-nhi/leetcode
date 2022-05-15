@@ -13,9 +13,7 @@ LEETCODE PROBLEMS
 29. Divide Two Integers
 32. Longest Valid Parentheses
 35. Search Insert Position
-48. Rotate Image
 53. Maximum Subarray
-94. Binary Tree Inorder Traversal
 100. Same Tree
 141. Linked List Cycle
 721. Accounts Merge
